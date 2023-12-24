@@ -1,0 +1,35 @@
+h2 {
+  text-align: center;
+  color: #b2a59b;
+  padding-top: 149px;
+}
+
+input[type="email"] {
+  margin-left: 549px;
+  padding-left: 259px;
+  padding-top: 21px;
+  border-radius: 9px;
+}
+
+
+Button{
+
+
+margin-left: 549px !important;
+    /* padding-left: 259px !important; */
+    padding-top: 21px !important;
+    border-radius: 9px !important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
